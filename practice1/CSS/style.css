@@ -32,7 +32,7 @@ header{
     align-items: center;
     flex-direction: column;
 
-    background: url('/image/download\ \(1\).jfif');
+    background: url('../../image/download\ \(1\).jfif');
     color: white;
 }
 
