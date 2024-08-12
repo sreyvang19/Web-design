@@ -50,7 +50,7 @@ section{
 }
 aside{
     background-color: rgb(255, 252, 79);
-    flex: 0.5;
+    flex: 0.7;
     height: 100vh;
 }
 main{
@@ -60,7 +60,7 @@ main{
 }
 
 footer{
-    height: 10vh;
+    height: 50px;
 }
 
 .maps{
@@ -82,4 +82,13 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+footer .icon{
+    display: flex;
+    padding: 0 50%;
+}
+footer .icon img{
+    width: 30px;
+    height: 30px;
+    margin: 20px;
 }
